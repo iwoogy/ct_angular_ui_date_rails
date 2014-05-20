@@ -1,0 +1,10 @@
+---
+module:
+  name: "ui.date"
+uis:
+  - name: ui-date
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
